@@ -1,0 +1,14 @@
+.card {
+	padding: 10px;
+	border-bottom: solid 1px #e4e4e4;
+
+	.avatar {
+		border: solid #e4e4e4 3px;
+		box-shadow: 1px 1px 9px -1px;
+		margin-right: 5px;
+	}
+
+	.cursor-point {
+		cursor: pointer;
+	}
+}
